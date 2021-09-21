@@ -1,0 +1,16 @@
+{
+  "name": "wapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "McCartner",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-binance-api": "^0.13.0",
+    "whatsapp-web.js": "^1.14.1"
+  }
+}
